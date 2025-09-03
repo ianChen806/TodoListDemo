@@ -1,6 +1,7 @@
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
-using TodoListDemo.Features.Todos.Queries.QueryList;
+using TodoListDemo.Application.Todos.Queries.QueryList;
+using TodoListDemo.Data;
 
 namespace TodoListDemo.Controllers;
 

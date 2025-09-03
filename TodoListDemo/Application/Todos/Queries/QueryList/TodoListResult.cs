@@ -1,6 +1,6 @@
 ﻿using TodoListDemo.Models;
 
-namespace TodoListDemo.Features.Todos.Queries.QueryList;
+namespace TodoListDemo.Application.Todos.Queries.QueryList;
 
 public class TodoListResult
 {
